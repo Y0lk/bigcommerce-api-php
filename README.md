@@ -5,6 +5,10 @@ DISCLAIMER
 ------------
 This is a fork of the official Bigcommerce PHP SDK. This fork was created because the official repo has been unsupported since 2018, and some minor updates were required to keep it working. I have no real plans to keep updating this package other than fixing issues with it. Feel free to contribute and raise issues, I will certainly look at them. I've published this on packagist under a different name to keep usage simple.
 
+This library only supports the Bigcommerce V2 API, so this fork is only useful if you already have a Bigcommerce implementation an are looking for a quick solution to the few issues the official library has, such as the incompatibility with PSR-4 standard.
+
+For new projects, you should use the Bigcommerce V3 API instead, and there happens to be a great unofficial PHP library for it that is well supported: https://github.com/aligent/bigcommerce-v3-api-php-client
+
 
 Description
 ------------
