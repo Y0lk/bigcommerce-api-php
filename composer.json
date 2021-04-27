@@ -1,5 +1,5 @@
 {
-    "name": "bigcommerce/api",
+    "name": "y0lk/bigcommerce-api",
     "type": "library",
     "description": "Enables PHP applications to communicate with the Bigcommerce API.",
     "keywords": [
@@ -9,12 +9,16 @@
         "ecommerce",
         "business"
     ],
-    "homepage": "http://developer.bigcommerce.com",
     "license": "MIT",
     "authors": [
         {
             "name": "Bigcommerce",
             "homepage": "http://www.bigcommerce.com"
+        },
+        {
+            "name": "Y0lk",
+            "email": "gabriel@inkrebit.com",
+            "homepage": "https://github.com/Y0lk"
         }
     ],
     "require": {
